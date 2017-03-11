@@ -5,13 +5,13 @@ Announce gong strikes in IRC
 
 ## Introduction
 
-The goal of this project is simple:  announce nerf-to-gong interactions in irc.
+The goal of this project is simple:  Announce nerf-to-gong interactions in IRC.
 
 The [@blip](http://twitter.com/blip) office has several characteristics that made this project a necessity:
 
-1. gongs.  we have two of them.
-2. nerf guns.  we have way more than two of them.
-3. irc.  we only have one irc server, but it has lots of users
+1. Gongs.  We have two of them.
+2. Nerf guns.  We have way more than two of them.
+3. IRC.  We only have one IRC server, but it has lots of users
 
 ## Code
 
